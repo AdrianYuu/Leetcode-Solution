@@ -6,14 +6,10 @@ class RecentCounter {
     }
     
     public int ping(int t) {
-        queue.add(t);
+        queue.offer(t);
         
-        while(!queue.isEmpty()){
-            if(queue.peek() < (t - 3000)){
-                queue.poll();
-            } else{
-                break;
-            }
+        while(queue.peek() < t - 3000){
+            queue.poll();
         }
 
         return queue.size();
