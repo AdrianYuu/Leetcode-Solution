@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1572-subrectangle-queries](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1572-subrectangle-queries) |
 | [1708-design-parking-system](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1708-design-parking-system) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AdrianYuu/Leetcode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/AdrianYuu/leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AdrianYuu/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
