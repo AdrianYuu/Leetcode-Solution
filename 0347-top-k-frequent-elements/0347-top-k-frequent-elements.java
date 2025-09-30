@@ -3,8 +3,6 @@ class Solution {
         int[] result = new int[k];
         Map<Integer, Integer> hmap = new HashMap<>();
 
-        Arrays.sort(nums);
-
         int len = nums.length;
 
         for(int i = 0; i < len; i++){
